@@ -1,4 +1,5 @@
-day 10 z-algo, rabin karp, etc.
+day 12-> heightOfBinaryTreeFromInorderAndLevelOrder, LCA.
+day 10-> z-algo, rabin karp, etc.
 Day 9-> LRU, LFU, Maximum of minimum of window of each size.
 Day 8-> running median, kmaxsumcombinations
 Day 7-> allocate Books, minHeap, chessTournament.
