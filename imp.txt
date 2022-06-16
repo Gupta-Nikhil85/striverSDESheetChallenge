@@ -1,0 +1,10 @@
+day 10 z-algo, rabin karp, etc.
+Day 9-> LRU, LFU, Maximum of minimum of window of each size.
+Day 8-> running median, kmaxsumcombinations
+Day 7-> allocate Books, minHeap, chessTournament.
+Day 6-> wordBreak, CombinationSum, KthPermutation.
+Day 5-> Min no of Platforms, Subset Sum, Subset Sum with Duplicates.
+Day 4-> Flatten A linked List, PalindromeLinkedList, reverseKgroupNodes.
+Day 3-> Count Subarray With Given Xor.
+Day 2-> countInversion, Majority Element2, reversePairs, modularExponentiation.
+Day 1-> nextPermutations, setMatrixZero, PascalsTriangle.
