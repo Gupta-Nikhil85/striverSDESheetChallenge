@@ -1,3 +1,11 @@
+day 23-> cut logs, word break, mcm, invert a bt
+day 22-> KMP algo
+day 21-> trie, max XOR of element with an array
+day 20-> min path sum
+day 19-> Kosaraju, max prod Subarray, prims algo
+day 17-> Directed graph cycle, no of islands, topo sort
+day 15-> serialize Deserialize, Kth largest in Array, median in a stream
+day 14-> BST Iterator, LCA in a BST Iterator 
 day 13-> children Sum Property, construct BT from different orders, morris Traversal, flatten a binary tree.
 day 12-> heightOfBinaryTreeFromInorderAndLevelOrder, LCA.
 day 10-> z-algo, rabin karp, etc.
