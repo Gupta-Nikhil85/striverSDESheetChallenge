@@ -25,7 +25,7 @@ vectorBFS(vector<pair<int,int>> adj[], int src, int n){
         int node= st.top();
         if(dist[node]!=1e9){
             for(auto j : adj[node]){
-                if(dist[j.first]> dist[node.first]+ j.second) dist[j.first]> dist[node.first]+ j.second;
+                if(dist[j.first]> dist[node.first]+ j.second) dist[j.first]= dist[node.first]+ j.second;
             }
         }
     }
