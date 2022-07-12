@@ -1,4 +1,3 @@
-bonus -> all
 day 23-> cut logs, word break, mcm, invert a bt
 day 22-> KMP algo
 day 21-> trie, max XOR of element with an array
