@@ -1,7 +1,7 @@
+bonus -> all
 day 23-> cut logs, word break, mcm, invert a bt
 day 22-> KMP algo
 day 21-> trie, max XOR of element with an array
-day 20-> min path sum
 day 19-> Kosaraju, max prod Subarray, prims algo
 day 17-> Directed graph cycle, no of islands, topo sort
 day 15-> serialize Deserialize, Kth largest in Array, median in a stream
