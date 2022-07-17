@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-
 void dfs(vector<int> adj[], vector<int> &vis, vector<int> &tm, vector<int> &low, int parent, int& timer, int node, unordered_set<int> &s){
     vis[node]++;
     low[node]=tm[node]=timer++;
